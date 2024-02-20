@@ -1,0 +1,7 @@
+D:\visual studio\Csharp\buoi6_mang\bin\Debug\buoi6_mang.exe.config
+D:\visual studio\Csharp\buoi6_mang\bin\Debug\buoi6_mang.exe
+D:\visual studio\Csharp\buoi6_mang\bin\Debug\buoi6_mang.pdb
+D:\visual studio\Csharp\buoi6_mang\obj\Debug\buoi6_mang.csproj.AssemblyReference.cache
+D:\visual studio\Csharp\buoi6_mang\obj\Debug\buoi6_mang.csproj.CoreCompileInputs.cache
+D:\visual studio\Csharp\buoi6_mang\obj\Debug\buoi6_mang.exe
+D:\visual studio\Csharp\buoi6_mang\obj\Debug\buoi6_mang.pdb
